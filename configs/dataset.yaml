@@ -1,0 +1,13 @@
+path: /home/adam/Team9/yer/jetson2026/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+
+names:
+  0: phone
+  1: book
+  2: laptop
+  3: pen
