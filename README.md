@@ -2,37 +2,43 @@
 
 A YOLO-based desktop object detection project deployed on NVIDIA Jetson ONX-DEV with ROS 2.
 
-The system detects four types of desktop objects: phone, book, laptop, and pen.
+The system detects four types of desktop objects: phone📱, book📖, laptop💻, and pen🖊️.
+
+## Links
+Item	Link
+📁 Original Dataset	and Processed Dataset	(to be added)
+🎥 Demo Video	(to be added)
+📄 Experiment Report	(to be added)
 
 ## Project Structure
 
-`configs/` Configuration files
+📂`configs/` Configuration files
 
-`dataset/` Training, validation, and test images and YOLO labels
+📂`dataset/` Training, validation, and test images and YOLO labels
 
-`results/` Detection results and test results
+📂`results/` Detection results and test results
 
-`ros2_ws/` ROS 2 workspace and `desktop_detector` package
+📂`ros2_ws/` ROS 2 workspace and `desktop_detector` package
 
-`runs/` YOLO training results and model weights
+📂`runs/` YOLO training results and model weights
 
-`scripts/` Dataset processing, training, camera testing, and detection scripts
+📂`scripts/` Dataset processing, training, camera testing, and detection scripts
 
-`classes.txt` Detection class names
+📄 `classes.txt` Detection class names
 
-`README.md` Project documentation
+📄 `README.md` Project documentation
 
 ## Main Scripts
 
-`scripts/split_dataset.py` Split the dataset
+⚙️`scripts/split_dataset.py` Split the dataset
 
-`scripts/check_dataset.py` Check the dataset and labels
+⚙️`scripts/check_dataset.py` Check the dataset and labels
 
-`scripts/fix_label_classes.py` Fix label class IDs
+⚙️`scripts/fix_label_classes.py` Fix label class IDs
 
-`scripts/train_model.py` Train the YOLO model
+⚙️`scripts/train_model.py` Train the YOLO model
 
-`scripts/realtime_detect.py` Run real-time detection
+⚙️`scripts/realtime_detect.py` Run real-time detection
 
 ## Running
 
