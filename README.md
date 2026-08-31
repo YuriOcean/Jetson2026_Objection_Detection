@@ -20,8 +20,6 @@ The system detects four types of desktop objects: phone, book, laptop, and pen.
 
 `classes.txt` Detection class names
 
-`LICENSE` Project license
-
 `README.md` Project documentation
 
 ## Main Scripts
