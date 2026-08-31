@@ -34,8 +34,6 @@ The system detects four types of desktop objects: phone, book, laptop, and pen.
 
 `scripts/train_model.py` Train the YOLO model
 
-`scripts/camera_test.py` Test the camera
-
 `scripts/realtime_detect.py` Run real-time detection
 
 ## Running
