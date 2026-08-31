@@ -1,0 +1,26 @@
+{"timestamp": 1788072635.672, "fps": 0.45, "count": 0, "objects": []}
+{"timestamp": 1788072838.399, "fps": 0.42, "count": 0, "objects": []}
+{"timestamp": 1788073036.241, "fps": 0.41, "count": 0, "objects": []}
+{"timestamp": 1788073420.263, "fps": 0.4, "count": 1, "objects": [{"class": "pen", "confidence": 0.5612, "bbox": {"x1": 1061, "y1": 0, "x2": 1279, "y2": 541}}]}
+{"timestamp": 1788073421.285, "fps": 4.82, "count": 2, "objects": [{"class": "book", "confidence": 0.561, "bbox": {"x1": 2, "y1": 303, "x2": 1280, "y2": 719}}, {"class": "book", "confidence": 0.4297, "bbox": {"x1": 1, "y1": 123, "x2": 1280, "y2": 704}}]}
+{"timestamp": 1788073422.351, "fps": 7.19, "count": 1, "objects": [{"class": "book", "confidence": 0.5859, "bbox": {"x1": 2, "y1": 305, "x2": 1277, "y2": 720}}]}
+{"timestamp": 1788073423.352, "fps": 8.58, "count": 0, "objects": []}
+{"timestamp": 1788073424.353, "fps": 9.55, "count": 0, "objects": []}
+{"timestamp": 1788073425.425, "fps": 10.3, "count": 3, "objects": [{"class": "pen", "confidence": 0.7421, "bbox": {"x1": 940, "y1": 171, "x2": 1279, "y2": 385}}, {"class": "phone", "confidence": 0.6526, "bbox": {"x1": 1105, "y1": 403, "x2": 1280, "y2": 720}}, {"class": "phone", "confidence": 0.5903, "bbox": {"x1": 661, "y1": 387, "x2": 1090, "y2": 708}}]}
+{"timestamp": 1788073426.487, "fps": 10.88, "count": 0, "objects": []}
+{"timestamp": 1788073427.556, "fps": 11.33, "count": 3, "objects": [{"class": "laptop", "confidence": 0.7516, "bbox": {"x1": 822, "y1": 340, "x2": 1280, "y2": 688}}, {"class": "laptop", "confidence": 0.5613, "bbox": {"x1": 820, "y1": 205, "x2": 1280, "y2": 702}}, {"class": "laptop", "confidence": 0.5397, "bbox": {"x1": 492, "y1": 374, "x2": 802, "y2": 661}}]}
+{"timestamp": 1788073428.621, "fps": 11.69, "count": 0, "objects": []}
+{"timestamp": 1788073429.681, "fps": 11.99, "count": 0, "objects": []}
+{"timestamp": 1788073430.75, "fps": 12.24, "count": 1, "objects": [{"class": "pen", "confidence": 0.4006, "bbox": {"x1": 698, "y1": 2, "x2": 810, "y2": 118}}]}
+{"timestamp": 1788073431.751, "fps": 12.43, "count": 1, "objects": [{"class": "phone", "confidence": 0.8554, "bbox": {"x1": 744, "y1": 221, "x2": 1037, "y2": 605}}]}
+{"timestamp": 1788073432.817, "fps": 12.62, "count": 2, "objects": [{"class": "phone", "confidence": 0.9264, "bbox": {"x1": 806, "y1": 285, "x2": 1128, "y2": 684}}, {"class": "phone", "confidence": 0.8327, "bbox": {"x1": 1109, "y1": 249, "x2": 1280, "y2": 606}}]}
+{"timestamp": 1788073433.818, "fps": 12.77, "count": 0, "objects": []}
+{"timestamp": 1788073434.819, "fps": 12.9, "count": 0, "objects": []}
+{"timestamp": 1788073435.82, "fps": 13.01, "count": 1, "objects": [{"class": "pen", "confidence": 0.6275, "bbox": {"x1": 791, "y1": 85, "x2": 1279, "y2": 254}}]}
+{"timestamp": 1788073436.821, "fps": 13.11, "count": 3, "objects": [{"class": "phone", "confidence": 0.8813, "bbox": {"x1": 446, "y1": 332, "x2": 703, "y2": 652}}, {"class": "laptop", "confidence": 0.8676, "bbox": {"x1": 684, "y1": 109, "x2": 1279, "y2": 659}}, {"class": "laptop", "confidence": 0.8291, "bbox": {"x1": 686, "y1": 277, "x2": 1276, "y2": 650}}]}
+{"timestamp": 1788073437.884, "fps": 13.22, "count": 0, "objects": []}
+{"timestamp": 1788073438.952, "fps": 13.31, "count": 1, "objects": [{"class": "book", "confidence": 0.4509, "bbox": {"x1": 783, "y1": 0, "x2": 1269, "y2": 133}}]}
+{"timestamp": 1788073439.961, "fps": 13.47, "count": 1, "objects": [{"class": "laptop", "confidence": 0.5777, "bbox": {"x1": 0, "y1": 91, "x2": 1238, "y2": 720}}]}
+{"timestamp": 1788073440.971, "fps": 13.79, "count": 0, "objects": []}
+{"timestamp": 1788073441.981, "fps": 13.83, "count": 1, "objects": [{"class": "pen", "confidence": 0.3554, "bbox": {"x1": 322, "y1": 29, "x2": 864, "y2": 330}}]}
+{"timestamp": 1788073443.047, "fps": 13.88, "count": 2, "objects": [{"class": "pen", "confidence": 0.8435, "bbox": {"x1": 230, "y1": 26, "x2": 696, "y2": 719}}, {"class": "pen", "confidence": 0.7184, "bbox": {"x1": 0, "y1": 190, "x2": 296, "y2": 718}}]}
