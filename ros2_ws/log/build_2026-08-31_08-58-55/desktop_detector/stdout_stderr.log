@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/desktop_detector/desktop_detector.egg-info
+writing ../../build/desktop_detector/desktop_detector.egg-info/PKG-INFO
+writing dependency_links to ../../build/desktop_detector/desktop_detector.egg-info/dependency_links.txt
+writing entry points to ../../build/desktop_detector/desktop_detector.egg-info/entry_points.txt
+writing requirements to ../../build/desktop_detector/desktop_detector.egg-info/requires.txt
+writing top-level names to ../../build/desktop_detector/desktop_detector.egg-info/top_level.txt
+writing manifest file '../../build/desktop_detector/desktop_detector.egg-info/SOURCES.txt'
+reading manifest file '../../build/desktop_detector/desktop_detector.egg-info/SOURCES.txt'
+writing manifest file '../../build/desktop_detector/desktop_detector.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build
+creating /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib
+creating /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector
+copying desktop_detector/detector_node.py -> /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector
+copying desktop_detector/__init__.py -> /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector
+running install
+running install_lib
+creating /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector
+copying /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector/detector_node.py -> /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector
+copying /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector/__init__.py -> /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector
+byte-compiling /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector/detector_node.py to detector_node.cpython-310.pyc
+byte-compiling /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/ament_index
+creating /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/ament_index/resource_index
+creating /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/ament_index/resource_index/packages
+copying resource/desktop_detector -> /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/ament_index/resource_index/packages
+copying package.xml -> /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/desktop_detector
+running install_egg_info
+Copying ../../build/desktop_detector/desktop_detector.egg-info to /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector-0.0.1-py3.10.egg-info
+running install_scripts
+Installing detector_node script to /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/desktop_detector
+writing list of installed files to '/home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/install.log'

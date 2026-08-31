@@ -1,0 +1,3 @@
+[console_scripts]
+detector_node = desktop_detector.detector_node:main
+

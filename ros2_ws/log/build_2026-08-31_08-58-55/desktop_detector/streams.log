@@ -1,0 +1,37 @@
+[1.123s] Invoking command in '/home/adam/Team9/yer/jetson2026/ros2_ws/src/desktop_detector': PYTHONPATH=/home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/desktop_detector build --build-base /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build install --record /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/install.log --single-version-externally-managed install_data
+[1.557s] running egg_info
+[1.557s] creating ../../build/desktop_detector/desktop_detector.egg-info
+[1.558s] writing ../../build/desktop_detector/desktop_detector.egg-info/PKG-INFO
+[1.558s] writing dependency_links to ../../build/desktop_detector/desktop_detector.egg-info/dependency_links.txt
+[1.558s] writing entry points to ../../build/desktop_detector/desktop_detector.egg-info/entry_points.txt
+[1.559s] writing requirements to ../../build/desktop_detector/desktop_detector.egg-info/requires.txt
+[1.559s] writing top-level names to ../../build/desktop_detector/desktop_detector.egg-info/top_level.txt
+[1.559s] writing manifest file '../../build/desktop_detector/desktop_detector.egg-info/SOURCES.txt'
+[1.562s] reading manifest file '../../build/desktop_detector/desktop_detector.egg-info/SOURCES.txt'
+[1.563s] writing manifest file '../../build/desktop_detector/desktop_detector.egg-info/SOURCES.txt'
+[1.563s] running build
+[1.564s] running build_py
+[1.564s] creating /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build
+[1.564s] creating /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib
+[1.564s] creating /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector
+[1.564s] copying desktop_detector/detector_node.py -> /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector
+[1.564s] copying desktop_detector/__init__.py -> /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector
+[1.564s] running install
+[1.565s] running install_lib
+[1.566s] creating /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector
+[1.567s] copying /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector/detector_node.py -> /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector
+[1.567s] copying /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build/lib/desktop_detector/__init__.py -> /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector
+[1.568s] byte-compiling /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector/detector_node.py to detector_node.cpython-310.pyc
+[1.572s] byte-compiling /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector/__init__.py to __init__.cpython-310.pyc
+[1.572s] running install_data
+[1.572s] creating /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/ament_index
+[1.572s] creating /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/ament_index/resource_index
+[1.572s] creating /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/ament_index/resource_index/packages
+[1.573s] copying resource/desktop_detector -> /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/ament_index/resource_index/packages
+[1.573s] copying package.xml -> /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/share/desktop_detector
+[1.573s] running install_egg_info
+[1.576s] Copying ../../build/desktop_detector/desktop_detector.egg-info to /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages/desktop_detector-0.0.1-py3.10.egg-info
+[1.577s] running install_scripts
+[1.611s] Installing detector_node script to /home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/desktop_detector
+[1.612s] writing list of installed files to '/home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/install.log'
+[1.675s] Invoked command in '/home/adam/Team9/yer/jetson2026/ros2_ws/src/desktop_detector' returned '0': PYTHONPATH=/home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adam/Team9/yer/jetson2026/ros2_ws/install/desktop_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/desktop_detector build --build-base /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/build install --record /home/adam/Team9/yer/jetson2026/ros2_ws/build/desktop_detector/install.log --single-version-externally-managed install_data
