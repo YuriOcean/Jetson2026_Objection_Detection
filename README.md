@@ -69,9 +69,3 @@ Check ROS 2 topics
 ```bash
 ros2 topic list
 ```
-
-View detection results
-
-```bash
-ros2 topic echo /<topic_name>
-```
