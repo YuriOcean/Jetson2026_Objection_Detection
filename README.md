@@ -5,10 +5,13 @@ A YOLO-based desktop object detection project deployed on NVIDIA Jetson ONX-DEV 
 The system detects four types of desktop objects: phone📱, book📖, laptop💻, and pen🖊️.
 
 ## Links
-Item	Link
-📁 Original Dataset	and Processed Dataset	(to be added)
-🎥 Demo Video	(to be added)
-📄 Experiment Report	(to be added)
+Item	Link：https://pan.baidu.com/s/1va70jQVBPZ0CDETsIhyQnw?pwd=prun
+
+📁 Original Dataset
+
+🎥 Demo Video	
+
+📄 Experiment Report	
 
 ## Project Structure
 
